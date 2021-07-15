@@ -1,0 +1,10 @@
+[Experimental] Animation Clip Export extension.
+Allows for LipSync animations to be exported in the editor as a native Unity animation clip, e.g. for use with Timeline.
+
+There are a couple of caveats to keep in mind:
+ - There's no support for Gesture markers. Only the facial animation is included in the resulting clip.
+ - Support for different Blend Systems has to be manually set up. At the moment support is included for the Blendshape, Advanced Blenshape and Bones-Only Blend Systems. Custom or third-party Blend Systems will require a custom AnimClipExportProvider being created.
+
+V0.2.0
+-------
+First Public Release

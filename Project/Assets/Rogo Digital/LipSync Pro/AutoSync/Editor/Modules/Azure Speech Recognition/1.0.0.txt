@@ -1,0 +1,5 @@
+Azure Speech Recognition AutoSync Module
+
+V1.0.0
+-------
+Initial Release

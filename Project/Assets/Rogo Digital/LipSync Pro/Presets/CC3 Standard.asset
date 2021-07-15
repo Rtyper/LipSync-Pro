@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db07302a52ae0d84f8f0c1bf5a629241, type: 3}
+  m_Name: CC3 Standard
+  m_EditorClassIdentifier: 
+  displayPath: CC3/Standard
+  isRelative: 1
+  phonemeShapes:
+  - phonemeName: AI
+    phoneme: 0
+    blendables: []
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0.0022567948, y: 0.0019086301, z: 0.0000016197082}
+      localRotation: {x: 359.99997, y: 0, z: 351.27847}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: E
+    phoneme: 0
+    blendables:
+    - blendableNumber: 5
+      blendableName: Wide (5)
+      weight: 100
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0.000030517578, y: 0, z: 354.8768}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: U
+    phoneme: 0
+    blendables:
+    - blendableNumber: 6
+      blendableName: Affricate (6)
+      weight: 71.6
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0.004437891, y: -0.0002500657, z: 0.000003929388}
+      localRotation: {x: 0, y: 0, z: 356.77588}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: O
+    phoneme: 0
+    blendables:
+    - blendableNumber: 3
+      blendableName: Tight-O (3)
+      weight: 100
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0.004229809, y: 0.0016925633, z: 0.000003389221}
+      localRotation: {x: 0, y: 0, z: 352.78656}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: CDGKNRSThYZ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 7
+      blendableName: Lip_Open (7)
+      weight: 55.2
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0, y: 0, z: 0}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: FV
+    phoneme: 0
+    blendables:
+    - blendableNumber: 2
+      blendableName: Dental_Lip (2)
+      weight: 100
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0, y: 0, z: 0}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: L
+    phoneme: 0
+    blendables:
+    - blendableNumber: 69
+      blendableName: Tongue_Raise (69)
+      weight: 100
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0.0006134156, y: -0.0013156701, z: 0.0000007740673}
+      localRotation: {x: 359.99997, y: 0, z: 357.96725}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: MBP
+    phoneme: 0
+    blendables:
+    - blendableNumber: 1
+      blendableName: Explosive (1)
+      weight: 100
+    - blendableNumber: 40
+      blendableName: Mouth_Pucker (40)
+      weight: 10
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0.000518254, y: 0.0020716153, z: 0.000000062536856}
+      localRotation: {x: 0, y: 0, z: 0}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: WQ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 4
+      blendableName: Tight (4)
+      weight: 100
+    bones:
+    - path: CC_Base_FacialBone/CC_Base_Head/CC_Base_NeckTwist02/CC_Base_NeckTwist01/CC_Base_Spine02/CC_Base_Spine01/CC_Base_Waist/CC_Base_Hip/CC_Base_BoneRoot/4k_cc3girl/
+      name: CC_Base_JawRoot
+      localPosition: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0, y: 0, z: 0}
+      localScale: {x: 0, y: 0, z: 0}
+      lockPosition: 0
+      lockRotation: 0
+      lockScale: 0
+  - phonemeName: Rest
+    phoneme: 0
+    blendables: []
+    bones: []
+  emotionShapes:
+  - emotion: Happy
+    blendables:
+    - blendableNumber: 33
+      blendableName: Mouth_Smile (33)
+      weight: 100
+    - blendableNumber: 21
+      blendableName: Eye_Squint_L (21)
+      weight: 60
+    - blendableNumber: 22
+      blendableName: Eye_Squint_R (22)
+      weight: 58.1
+    - blendableNumber: 34
+      blendableName: Mouth_Smile_L (34)
+      weight: 23.4
+    - blendableNumber: 35
+      blendableName: Mouth_Smile_R (35)
+      weight: 18.1
+    - blendableNumber: 7
+      blendableName: Lip_Open (7)
+      weight: 100
+    bones: []
+  - emotion: Serious
+    blendables:
+    - blendableNumber: 12
+      blendableName: Brow_Drop_L (12)
+      weight: 100
+    - blendableNumber: 13
+      blendableName: Brow_Drop_R (13)
+      weight: 100
+    - blendableNumber: 21
+      blendableName: Eye_Squint_L (21)
+      weight: 19.7
+    - blendableNumber: 22
+      blendableName: Eye_Squint_R (22)
+      weight: 17
+    - blendableNumber: 36
+      blendableName: Mouth_Frown (36)
+      weight: 9.8
+    bones: []
+  - emotion: Eyebrows Up
+    blendables:
+    - blendableNumber: 14
+      blendableName: Brow_Raise_L (14)
+      weight: 100
+    - blendableNumber: 15
+      blendableName: Brow_Raise_R (15)
+      weight: 100
+    - blendableNumber: 10
+      blendableName: Brow_Raise_Outer_L (10)
+      weight: 13.5
+    - blendableNumber: 11
+      blendableName: Brow_Raise_Outer_R (11)
+      weight: 13.5
+    - blendableNumber: 19
+      blendableName: Eye_Wide_L (19)
+      weight: 29.5
+    - blendableNumber: 20
+      blendableName: Eye_Wide_R (20)
+      weight: 30.3
+    bones: []
+  - emotion: Sad
+    blendables:
+    - blendableNumber: 36
+      blendableName: Mouth_Frown (36)
+      weight: 70.8
+    - blendableNumber: 8
+      blendableName: Brow_Raise_Inner_L (8)
+      weight: 47.9
+    - blendableNumber: 9
+      blendableName: Brow_Raise_Inner_R (9)
+      weight: 46.9
+    bones: []

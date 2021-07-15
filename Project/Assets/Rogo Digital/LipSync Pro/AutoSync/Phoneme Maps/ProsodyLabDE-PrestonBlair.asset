@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec01a6ce71382249a21692e5f167af7, type: 3}
+  m_Name: ProsodyLabDE-PrestonBlair
+  m_EditorClassIdentifier: 
+  displayName: Prosody Lab - Preston-Blair
+  setAName: ProsodyLab-DE
+  setBName: PrestonBlair
+  phonemeMap:
+    map:
+    - aLabel: p
+      bLabel: MBP
+    - aLabel: b
+      bLabel: MBP
+    - aLabel: t
+      bLabel: CDGKNRSThYZ
+    - aLabel: d
+      bLabel: CDGKNRSThYZ
+    - aLabel: k
+      bLabel: CDGKNRSThYZ
+    - aLabel: g
+      bLabel: CDGKNRSThYZ
+    - aLabel: N
+      bLabel: CDGKNRSThYZ
+    - aLabel: m
+      bLabel: MBP
+    - aLabel: n
+      bLabel: CDGKNRSThYZ
+    - aLabel: l
+      bLabel: L
+    - aLabel: r
+      bLabel: CDGKNRSThYZ
+    - aLabel: f
+      bLabel: FV
+    - aLabel: v
+      bLabel: FV
+    - aLabel: T
+      bLabel: CDGKNRSThYZ
+    - aLabel: D
+      bLabel: CDGKNRSThYZ
+    - aLabel: s
+      bLabel: CDGKNRSThYZ
+    - aLabel: z
+      bLabel: CDGKNRSThYZ
+    - aLabel: S
+      bLabel: CDGKNRSThYZ
+    - aLabel: j
+      bLabel: CDGKNRSThYZ
+    - aLabel: x
+      bLabel: CDGKNRSThYZ
+    - aLabel: h
+      bLabel: CDGKNRSThYZ
+    - aLabel: w
+      bLabel: WQ
+    - aLabel: tS
+      bLabel: CDGKNRSThYZ
+    - aLabel: dZ
+      bLabel: CDGKNRSThYZ
+    - aLabel: I
+      bLabel: AI
+    - aLabel: E
+      bLabel: E
+    - aLabel: '&'
+      bLabel: AI
+    - aLabel: V
+      bLabel: AI
+    - aLabel: O
+      bLabel: U
+    - aLabel: U
+      bLabel: U
+    - aLabel: '@'
+      bLabel: AI
+    - aLabel: i
+      bLabel: E
+    - aLabel: W
+      bLabel: AI
+    - aLabel: A
+      bLabel: AI
+    - aLabel: ~
+      bLabel: AI
+    - aLabel: $
+      bLabel: WQ
+    - aLabel: u
+      bLabel: O
+    - aLabel: eins
+      bLabel: AI
+    - aLabel: zwei
+      bLabel: AI
+    - aLabel: drei
+      bLabel: AI
+    - aLabel: vier
+      bLabel: AI
+    - aLabel: o
+      bLabel: O
+    - aLabel: /
+      bLabel: O
+    - aLabel: sp
+      bLabel: Rest

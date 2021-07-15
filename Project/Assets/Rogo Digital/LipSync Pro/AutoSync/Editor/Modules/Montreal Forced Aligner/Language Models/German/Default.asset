@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5cc912243e1724db87bbd9dc547cab, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  displayName: Default (German)
+  description: Uses the MFA module to generate phonemes from an AudioClip and a transcript.
+    (German Language Model)
+  modules:
+  - ASMontrealPhonemeDetectionModule
+  - ASPhonemeMarkerCleanupModule
+  moduleSettings:
+  - '{"languageModel":1,"useAudioConversion":true,"autoRetry":true,"maxAttempts":2,"minLengthForSustain":100.0,"configPath":""}'
+  - '{"cleanupAggression":0.0010000000474974514}'
