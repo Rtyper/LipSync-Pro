@@ -1,0 +1,10 @@
+Set Intensity From Volume AutoSync Module
+V1.1.0
+-------
+Improved default volume curve.
+Added "apply relative" option - makes the volume curve relative to the quietest and loudest parts of the audio clip.
+Added support for visually important phonemes in LipSync 1.53.
+
+V1.0.0
+-------
+Initial Release

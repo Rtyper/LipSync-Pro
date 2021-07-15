@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GRFL_Face_EyeLids
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: GRFL_Hips
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_FootCont1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_FootCont2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_FootCont3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_FootCont4
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_ToeBase
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_ToeBase/GRFL_L_ToeBaseNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_ToeBase/GRFL_L_ToetCont1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_Foot/GRFL_L_ToeBase/GRFL_L_ToetCont2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_Leg/GRFL_L_LegTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_UpLegTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_L_UpLeg/GRFL_L_WeaponUpLeg
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_FootCont1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_FootCont2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_FootCont3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_FootCont4
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_ToeBase
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_ToeBase/GRFL_R_ToeBaseNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_ToeBase/GRFL_R_ToetCont1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_Foot/GRFL_R_ToeBase/GRFL_R_ToetCont2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_Leg/GRFL_R_LegTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_UpLegTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_R_UpLeg/GRFL_R_WeaponUpLeg
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ArmTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_ForeArmTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandIndex1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandIndex1/GRFL_L_HandIndex2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandIndex1/GRFL_L_HandIndex2/GRFL_L_HandIndex3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandIndex1/GRFL_L_HandIndex2/GRFL_L_HandIndex3/GRFL_L_HandIndexNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandMiddle1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandMiddle1/GRFL_L_HandMiddle2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandMiddle1/GRFL_L_HandMiddle2/GRFL_L_HandMiddle3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandMiddle1/GRFL_L_HandMiddle2/GRFL_L_HandMiddle3/GRFL_L_HandMiddleNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandPinky1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandPinky1/GRFL_L_HandPinky2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandPinky1/GRFL_L_HandPinky2/GRFL_L_HandPinky3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandPinky1/GRFL_L_HandPinky2/GRFL_L_HandPinky3/GRFL_L_HandPinkyNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandRing1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandRing1/GRFL_L_HandRing2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandRing1/GRFL_L_HandRing2/GRFL_L_HandRing3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandRing1/GRFL_L_HandRing2/GRFL_L_HandRing3/GRFL_L_HandRingNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandThumb1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandThumb1/GRFL_L_HandThumb2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandThumb1/GRFL_L_HandThumb2/GRFL_L_HandThumb3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_HandThumb1/GRFL_L_HandThumb2/GRFL_L_HandThumb3/GRFL_L_HandThumbNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_L_Shoulder/GRFL_L_Arm/GRFL_L_ForeArm/GRFL_L_Hand/GRFL_L_WeaponHand
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_HeadNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw/GRFL_JawEnd
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw/GRFL_LipLower
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw/GRFL_LipLower/GRFL_L_LipLower
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw/GRFL_LipLower/GRFL_R_LipLower
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw/GRFL_Tongue
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw/GRFL_Tongue/GRFL_Tongue1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Jaw/GRFL_Tongue/GRFL_Tongue1/GRFL_Tongue2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_BrowInner
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_BrowOuter
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_Cheek
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_Eye
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_LipCorner
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_LowerEyelid
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_LowerEyelid/GRFL_L_LowerEyelash
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_UpperEyelid
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_L_UpperEyelid/GRFL_L_UpperEeylash
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_LipUpper
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_LipUpper/GRFL_L_LipUpper
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_LipUpper/GRFL_R_LipUpper
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Nose
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Nose/GRFL_L_Nostril
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_Nose/GRFL_R_Nostril
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_BrowInner
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_BrowOuter
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_Cheek
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_Eye
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_LipCorner
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_LowerEyelid
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_LowerEyelid/GRFL_R_LowerEyelash
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_UpperEyelid
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_Neck/GRFL_Head/GRFL_R_UpperEyelid/GRFL_R_UpperEeylash
+    m_Weight: 1
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ArmTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_ForeArmTwist
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandIndex1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandIndex1/GRFL_R_HandIndex2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandIndex1/GRFL_R_HandIndex2/GRFL_R_HandIndex3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandIndex1/GRFL_R_HandIndex2/GRFL_R_HandIndex3/GRFL_R_HandIndexNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandMiddle1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandMiddle1/GRFL_R_HandMiddle2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandMiddle1/GRFL_R_HandMiddle2/GRFL_R_HandMiddle3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandMiddle1/GRFL_R_HandMiddle2/GRFL_R_HandMiddle3/GRFL_R_HandMiddleNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandPinky1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandPinky1/GRFL_R_HandPinky2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandPinky1/GRFL_R_HandPinky2/GRFL_R_HandPinky3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandPinky1/GRFL_R_HandPinky2/GRFL_R_HandPinky3/GRFL_R_HandPinkyNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandRing1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandRing1/GRFL_R_HandRing2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandRing1/GRFL_R_HandRing2/GRFL_R_HandRing3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandRing1/GRFL_R_HandRing2/GRFL_R_HandRing3/GRFL_R_HandRingNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandThumb1
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandThumb1/GRFL_R_HandThumb2
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandThumb1/GRFL_R_HandThumb2/GRFL_R_HandThumb3
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_HandThumb1/GRFL_R_HandThumb2/GRFL_R_HandThumb3/GRFL_R_HandThumbNub
+    m_Weight: 0
+  - m_Path: GRFL_Hips/GRFL_Spine/GRFL_Spine1/GRFL_Spine2/GRFL_R_Shoulder/GRFL_R_Arm/GRFL_R_ForeArm/GRFL_R_Hand/GRFL_R_WeaponHand
+    m_Weight: 0

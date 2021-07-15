@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db07302a52ae0d84f8f0c1bf5a629241, type: 3}
+  m_Name: Exaggerated
+  m_EditorClassIdentifier: 
+  displayPath: Adobe (Mixamo) Fuse/Exaggerated
+  isRelative: 0
+  phonemeShapes:
+  - phonemeName: AI
+    phoneme: 0
+    blendables:
+    - blendableNumber: 35
+      blendableName: MouthOpen (35)
+      weight: 55.1
+    - blendableNumber: 22
+      blendableName: Jaw_Down (22)
+      weight: 54.1
+    bones: []
+  - phonemeName: E
+    phoneme: 0
+    blendables:
+    - blendableNumber: 35
+      blendableName: MouthOpen (35)
+      weight: 25.3
+    - blendableNumber: 41
+      blendableName: Smile_Left (41)
+      weight: 52.4
+    - blendableNumber: 42
+      blendableName: Smile_Right (42)
+      weight: 52.4
+    - blendableNumber: 45
+      blendableName: TongueUp (45)
+      weight: 2.2
+    - blendableNumber: 47
+      blendableName: UpperLipOut (47)
+      weight: 15.7
+    bones: []
+  - phonemeName: U
+    phoneme: 0
+    blendables:
+    - blendableNumber: 35
+      blendableName: MouthOpen (35)
+      weight: 33.4
+    - blendableNumber: 33
+      blendableName: MouthNarrow_Left (33)
+      weight: 52.1
+    - blendableNumber: 34
+      blendableName: MouthNarrow_Right (34)
+      weight: 53.2
+    - blendableNumber: 29
+      blendableName: LowerLipOut (29)
+      weight: 80.1
+    - blendableNumber: 47
+      blendableName: UpperLipOut (47)
+      weight: 90.2
+    bones: []
+  - phonemeName: O
+    phoneme: 0
+    blendables:
+    - blendableNumber: 35
+      blendableName: MouthOpen (35)
+      weight: 44.7
+    - blendableNumber: 33
+      blendableName: MouthNarrow_Left (33)
+      weight: 91.6
+    - blendableNumber: 34
+      blendableName: MouthNarrow_Right (34)
+      weight: 92.1
+    bones: []
+  - phonemeName: CDGKNRSThYZ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 22
+      blendableName: Jaw_Down (22)
+      weight: 12.7
+    bones: []
+  - phonemeName: FV
+    phoneme: 0
+    blendables:
+    - blendableNumber: 22
+      blendableName: Jaw_Down (22)
+      weight: 51.7
+    - blendableNumber: 28
+      blendableName: LowerLipIn (28)
+      weight: 100
+    - blendableNumber: 16
+      blendableName: JawBackward (16)
+      weight: 48.2
+    - blendableNumber: 41
+      blendableName: Smile_Left (41)
+      weight: 35.2
+    - blendableNumber: 42
+      blendableName: Smile_Right (42)
+      weight: 36.3
+    - blendableNumber: 47
+      blendableName: UpperLipOut (47)
+      weight: 0
+    bones: []
+  - phonemeName: L
+    phoneme: 0
+    blendables:
+    - blendableNumber: 35
+      blendableName: MouthOpen (35)
+      weight: 53.7
+    - blendableNumber: 45
+      blendableName: TongueUp (45)
+      weight: 100
+    - blendableNumber: 39
+      blendableName: NoseScrunch_Left (39)
+      weight: 16.1
+    bones: []
+  - phonemeName: MBP
+    phoneme: 0
+    blendables:
+    - blendableNumber: 32
+      blendableName: MouthDown (32)
+      weight: 41.2
+    - blendableNumber: 28
+      blendableName: LowerLipIn (28)
+      weight: 83.5
+    - blendableNumber: 46
+      blendableName: UpperLipIn (46)
+      weight: 83.7
+    bones: []
+  - phonemeName: WQ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 33
+      blendableName: MouthNarrow_Left (33)
+      weight: 96.9
+    - blendableNumber: 34
+      blendableName: MouthNarrow_Right (34)
+      weight: 96.2
+    - blendableNumber: 29
+      blendableName: LowerLipOut (29)
+      weight: 74.7
+    bones: []
+  - phonemeName: Rest
+    phoneme: 0
+    blendables: []
+    bones: []
+  emotionShapes:
+  - emotion: Happy
+    blendables:
+    - blendableNumber: 41
+      blendableName: Smile_Left (41)
+      weight: 55.3
+    - blendableNumber: 42
+      blendableName: Smile_Right (42)
+      weight: 56.4
+    - blendableNumber: 43
+      blendableName: Squint_Left (43)
+      weight: 23.6
+    - blendableNumber: 44
+      blendableName: Squint_Right (44)
+      weight: 25.1
+    - blendableNumber: 8
+      blendableName: BrowsUp_Left (8)
+      weight: 20.5
+    - blendableNumber: 9
+      blendableName: BrowsUp_Right (9)
+      weight: 17.8
+    bones: []
+  - emotion: Sad
+    blendables:
+    - blendableNumber: 32
+      blendableName: MouthDown (32)
+      weight: 18.9
+    - blendableNumber: 14
+      blendableName: Frown_Left (14)
+      weight: 43.2
+    - blendableNumber: 15
+      blendableName: Frown_Right (15)
+      weight: 47.5
+    - blendableNumber: 6
+      blendableName: BrowsOuterLower_Left (6)
+      weight: 57.7
+    - blendableNumber: 7
+      blendableName: BrowsOuterLower_Right (7)
+      weight: 60.3
+    bones: []
+  - emotion: Serious
+    blendables:
+    - blendableNumber: 2
+      blendableName: BrowsDown_Left (2)
+      weight: 50.1
+    - blendableNumber: 3
+      blendableName: BrowsDown_Right (3)
+      weight: 49.9
+    bones: []
+  - emotion: Eyebrows Up
+    blendables:
+    - blendableNumber: 8
+      blendableName: BrowsUp_Left (8)
+      weight: 27.5
+    - blendableNumber: 9
+      blendableName: BrowsUp_Right (9)
+      weight: 28.1
+    - blendableNumber: 7
+      blendableName: BrowsOuterLower_Right (7)
+      weight: 21.8
+    - blendableNumber: 6
+      blendableName: BrowsOuterLower_Left (6)
+      weight: 22.6
+    bones: []

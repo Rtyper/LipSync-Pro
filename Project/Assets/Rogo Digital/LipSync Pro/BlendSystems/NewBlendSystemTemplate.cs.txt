@@ -1,0 +1,71 @@
+using UnityEngine;
+using RogoDigital.Lipsync;
+
+// This is an empty blend system. It will be accepted as a blend system by LipSync, but doesn't contain any real functional code.
+// For details on how this works, consult the "Creating Blend Systems" section of the documentation.
+
+public class MyNewBlendSystem : BlendSystem
+{
+
+	// Do any setup necessary here. BlendSystems run in edit mode as well as play mode, so this will also be called when Unity starts or your scripts recompile.
+	// Make sure you call base.OnEnable() here for expected behaviour.
+	public override void OnEnable ()
+	{
+		// Sets info about this blend system for use in the editor.
+		blendableDisplayName = "Blendable Name";
+		blendableDisplayNamePlural = "Blendable Names";
+		noBlendablesMessage = "This message is displayed if there are no blendables available.";
+		notReadyMessage = "This message is displayed if isReady is set to false.";
+
+		base.OnEnable();
+	}
+
+	// This method is used for setting the value of a blendable. The blendable argument is a zero-based index for identifying a blendable.
+	// It will never be higher than the number of blendables returned by GetBlendables().
+	// Depending on how you blend system will work, you may want to keep track of available blendables in an array.
+	public override void SetBlendableValue (int blendable, float value)
+	{
+		// These two lines are important to avoid errors if the method is called before the system is setup.
+		if(!isReady)
+			return;
+
+		// As well as making any necesary changes to the mesh/sprite etc, this method should also include the following line.
+		// This updates the internally tracked value for the blendshape, which is used to prevent conflicts with other scripts.
+		SetInternalValue(blendable , value);
+	}
+
+
+	// This method is used to populate the blendables dropdown in the LipSync editor.
+	// The array of strings it returns should be easily readable, and can be categorised using "/".
+	public override string[] GetBlendables ()
+	{
+		// These two lines are important to avoid errors if the method is called before the system is setup.
+		if(!isReady)
+			return null;
+
+		// The following block of pseudo-code is a rough guide to one way of implementing this method.
+		// The setInternal bool is used to check if the internal blendable array has been filled in.
+		// If it hasn't, the AddBlendable method is called for each blendable to correct this.
+		// This internal blendable array is used to avoid conflicts with other scripts changing the same base values.
+
+//		bool setInternal = false;
+//		string[] blendShapes = new string[numberOfBlendablesInUnderlyingSystem];
+//		if(blendableCount == 0) setInternal = true;
+//
+//		for(int a = 0 ; a < blendShapes.Length ; a++){
+//			blendShapes[a] = nameOfBlendable + " (" + a.ToString() + ")";
+//			if(setInternal) AddBlendable(a , blendableCurrentValue);
+//		}
+
+		// Obviously, you should return an actual array of strings here, not an empty one.
+		// Usually you would loop through the blendable equivalent in whatever system this is designed to work with and add them to a temporary array.
+		return new string[0];
+	}
+
+	// This method is called whenever a public, non-static variable from this class (not the base BlendSystem class) is changed in the LipSync editor.
+	// It should check that any essential variables have valid values, and set isReady to true only if they do.
+	public override void OnVariableChanged ()
+	{
+		isReady = true;
+	}
+}

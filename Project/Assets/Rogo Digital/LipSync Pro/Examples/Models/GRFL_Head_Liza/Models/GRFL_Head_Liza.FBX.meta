@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: 78eeaefa0ea89dd42a7c7a9b9f9b0ba2
+timeCreated: 1457966463
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GRFL_Head
+    100002: GRFL_Head_Liza
+    100004: //RootNode
+    100006: GRFL_HeadNub
+    100008: GRFL_Hips
+    100010: GRFL_Jaw
+    100012: GRFL_JawEnd
+    100014: GRFL_L_Arm
+    100016: GRFL_L_ArmTwist
+    100018: GRFL_L_BrowInner
+    100020: GRFL_L_BrowOuter
+    100022: GRFL_L_Cheek
+    100024: GRFL_L_Eye
+    100026: GRFL_L_Foot
+    100028: GRFL_L_FootCont1
+    100030: GRFL_L_FootCont2
+    100032: GRFL_L_FootCont3
+    100034: GRFL_L_FootCont4
+    100036: GRFL_L_ForeArm
+    100038: GRFL_L_ForeArmTwist
+    100040: GRFL_L_Hand
+    100042: GRFL_L_HandIndex1
+    100044: GRFL_L_HandIndex2
+    100046: GRFL_L_HandIndex3
+    100048: GRFL_L_HandIndexNub
+    100050: GRFL_L_HandMiddle1
+    100052: GRFL_L_HandMiddle2
+    100054: GRFL_L_HandMiddle3
+    100056: GRFL_L_HandMiddleNub
+    100058: GRFL_L_HandPinky1
+    100060: GRFL_L_HandPinky2
+    100062: GRFL_L_HandPinky3
+    100064: GRFL_L_HandPinkyNub
+    100066: GRFL_L_HandRing1
+    100068: GRFL_L_HandRing2
+    100070: GRFL_L_HandRing3
+    100072: GRFL_L_HandRingNub
+    100074: GRFL_L_HandThumb1
+    100076: GRFL_L_HandThumb2
+    100078: GRFL_L_HandThumb3
+    100080: GRFL_L_HandThumbNub
+    100082: GRFL_L_Leg
+    100084: GRFL_L_LegTwist
+    100086: GRFL_L_LipCorner
+    100088: GRFL_L_LipLower
+    100090: GRFL_L_LipUpper
+    100092: GRFL_L_LowerEyelash
+    100094: GRFL_L_LowerEyelid
+    100096: GRFL_L_Nostril
+    100098: GRFL_L_Shoulder
+    100100: GRFL_L_ToeBase
+    100102: GRFL_L_ToeBaseNub
+    100104: GRFL_L_ToetCont1
+    100106: GRFL_L_ToetCont2
+    100108: GRFL_L_UpLeg
+    100110: GRFL_L_UpLegTwist
+    100112: GRFL_L_UpperEeylash
+    100114: GRFL_L_UpperEyelid
+    100116: GRFL_L_WeaponHand
+    100118: GRFL_L_WeaponUpLeg
+    100120: GRFL_LipLower
+    100122: GRFL_LipUpper
+    100124: GRFL_Neck
+    100126: GRFL_Nose
+    100128: GRFL_R_Arm
+    100130: GRFL_R_ArmTwist
+    100132: GRFL_R_BrowInner
+    100134: GRFL_R_BrowOuter
+    100136: GRFL_R_Cheek
+    100138: GRFL_R_Eye
+    100140: GRFL_R_Foot
+    100142: GRFL_R_FootCont1
+    100144: GRFL_R_FootCont2
+    100146: GRFL_R_FootCont3
+    100148: GRFL_R_FootCont4
+    100150: GRFL_R_ForeArm
+    100152: GRFL_R_ForeArmTwist
+    100154: GRFL_R_Hand
+    100156: GRFL_R_HandIndex1
+    100158: GRFL_R_HandIndex2
+    100160: GRFL_R_HandIndex3
+    100162: GRFL_R_HandIndexNub
+    100164: GRFL_R_HandMiddle1
+    100166: GRFL_R_HandMiddle2
+    100168: GRFL_R_HandMiddle3
+    100170: GRFL_R_HandMiddleNub
+    100172: GRFL_R_HandPinky1
+    100174: GRFL_R_HandPinky2
+    100176: GRFL_R_HandPinky3
+    100178: GRFL_R_HandPinkyNub
+    100180: GRFL_R_HandRing1
+    100182: GRFL_R_HandRing2
+    100184: GRFL_R_HandRing3
+    100186: GRFL_R_HandRingNub
+    100188: GRFL_R_HandThumb1
+    100190: GRFL_R_HandThumb2
+    100192: GRFL_R_HandThumb3
+    100194: GRFL_R_HandThumbNub
+    100196: GRFL_R_Leg
+    100198: GRFL_R_LegTwist
+    100200: GRFL_R_LipCorner
+    100202: GRFL_R_LipLower
+    100204: GRFL_R_LipUpper
+    100206: GRFL_R_LowerEyelash
+    100208: GRFL_R_LowerEyelid
+    100210: GRFL_R_Nostril
+    100212: GRFL_R_Shoulder
+    100214: GRFL_R_ToeBase
+    100216: GRFL_R_ToeBaseNub
+    100218: GRFL_R_ToetCont1
+    100220: GRFL_R_ToetCont2
+    100222: GRFL_R_UpLeg
+    100224: GRFL_R_UpLegTwist
+    100226: GRFL_R_UpperEeylash
+    100228: GRFL_R_UpperEyelid
+    100230: GRFL_R_WeaponHand
+    100232: GRFL_R_WeaponUpLeg
+    100234: GRFL_Spine
+    100236: GRFL_Spine1
+    100238: GRFL_Spine2
+    100240: GRFL_Tongue
+    100242: GRFL_Tongue1
+    100244: GRFL_Tongue2
+    100246: GRH_DownTeeth_Liza
+    100248: GRH_EyeLashes_Liza
+    100250: GRH_LEye_Liza
+    100252: GRH_REye_Liza
+    100254: GRH_Tongue_Liza
+    100256: GRH_UpperTeeth_Liza
+    400000: GRFL_Head
+    400002: GRFL_Head_Liza
+    400004: //RootNode
+    400006: GRFL_HeadNub
+    400008: GRFL_Hips
+    400010: GRFL_Jaw
+    400012: GRFL_JawEnd
+    400014: GRFL_L_Arm
+    400016: GRFL_L_ArmTwist
+    400018: GRFL_L_BrowInner
+    400020: GRFL_L_BrowOuter
+    400022: GRFL_L_Cheek
+    400024: GRFL_L_Eye
+    400026: GRFL_L_Foot
+    400028: GRFL_L_FootCont1
+    400030: GRFL_L_FootCont2
+    400032: GRFL_L_FootCont3
+    400034: GRFL_L_FootCont4
+    400036: GRFL_L_ForeArm
+    400038: GRFL_L_ForeArmTwist
+    400040: GRFL_L_Hand
+    400042: GRFL_L_HandIndex1
+    400044: GRFL_L_HandIndex2
+    400046: GRFL_L_HandIndex3
+    400048: GRFL_L_HandIndexNub
+    400050: GRFL_L_HandMiddle1
+    400052: GRFL_L_HandMiddle2
+    400054: GRFL_L_HandMiddle3
+    400056: GRFL_L_HandMiddleNub
+    400058: GRFL_L_HandPinky1
+    400060: GRFL_L_HandPinky2
+    400062: GRFL_L_HandPinky3
+    400064: GRFL_L_HandPinkyNub
+    400066: GRFL_L_HandRing1
+    400068: GRFL_L_HandRing2
+    400070: GRFL_L_HandRing3
+    400072: GRFL_L_HandRingNub
+    400074: GRFL_L_HandThumb1
+    400076: GRFL_L_HandThumb2
+    400078: GRFL_L_HandThumb3
+    400080: GRFL_L_HandThumbNub
+    400082: GRFL_L_Leg
+    400084: GRFL_L_LegTwist
+    400086: GRFL_L_LipCorner
+    400088: GRFL_L_LipLower
+    400090: GRFL_L_LipUpper
+    400092: GRFL_L_LowerEyelash
+    400094: GRFL_L_LowerEyelid
+    400096: GRFL_L_Nostril
+    400098: GRFL_L_Shoulder
+    400100: GRFL_L_ToeBase
+    400102: GRFL_L_ToeBaseNub
+    400104: GRFL_L_ToetCont1
+    400106: GRFL_L_ToetCont2
+    400108: GRFL_L_UpLeg
+    400110: GRFL_L_UpLegTwist
+    400112: GRFL_L_UpperEeylash
+    400114: GRFL_L_UpperEyelid
+    400116: GRFL_L_WeaponHand
+    400118: GRFL_L_WeaponUpLeg
+    400120: GRFL_LipLower
+    400122: GRFL_LipUpper
+    400124: GRFL_Neck
+    400126: GRFL_Nose
+    400128: GRFL_R_Arm
+    400130: GRFL_R_ArmTwist
+    400132: GRFL_R_BrowInner
+    400134: GRFL_R_BrowOuter
+    400136: GRFL_R_Cheek
+    400138: GRFL_R_Eye
+    400140: GRFL_R_Foot
+    400142: GRFL_R_FootCont1
+    400144: GRFL_R_FootCont2
+    400146: GRFL_R_FootCont3
+    400148: GRFL_R_FootCont4
+    400150: GRFL_R_ForeArm
+    400152: GRFL_R_ForeArmTwist
+    400154: GRFL_R_Hand
+    400156: GRFL_R_HandIndex1
+    400158: GRFL_R_HandIndex2
+    400160: GRFL_R_HandIndex3
+    400162: GRFL_R_HandIndexNub
+    400164: GRFL_R_HandMiddle1
+    400166: GRFL_R_HandMiddle2
+    400168: GRFL_R_HandMiddle3
+    400170: GRFL_R_HandMiddleNub
+    400172: GRFL_R_HandPinky1
+    400174: GRFL_R_HandPinky2
+    400176: GRFL_R_HandPinky3
+    400178: GRFL_R_HandPinkyNub
+    400180: GRFL_R_HandRing1
+    400182: GRFL_R_HandRing2
+    400184: GRFL_R_HandRing3
+    400186: GRFL_R_HandRingNub
+    400188: GRFL_R_HandThumb1
+    400190: GRFL_R_HandThumb2
+    400192: GRFL_R_HandThumb3
+    400194: GRFL_R_HandThumbNub
+    400196: GRFL_R_Leg
+    400198: GRFL_R_LegTwist
+    400200: GRFL_R_LipCorner
+    400202: GRFL_R_LipLower
+    400204: GRFL_R_LipUpper
+    400206: GRFL_R_LowerEyelash
+    400208: GRFL_R_LowerEyelid
+    400210: GRFL_R_Nostril
+    400212: GRFL_R_Shoulder
+    400214: GRFL_R_ToeBase
+    400216: GRFL_R_ToeBaseNub
+    400218: GRFL_R_ToetCont1
+    400220: GRFL_R_ToetCont2
+    400222: GRFL_R_UpLeg
+    400224: GRFL_R_UpLegTwist
+    400226: GRFL_R_UpperEeylash
+    400228: GRFL_R_UpperEyelid
+    400230: GRFL_R_WeaponHand
+    400232: GRFL_R_WeaponUpLeg
+    400234: GRFL_Spine
+    400236: GRFL_Spine1
+    400238: GRFL_Spine2
+    400240: GRFL_Tongue
+    400242: GRFL_Tongue1
+    400244: GRFL_Tongue2
+    400246: GRH_DownTeeth_Liza
+    400248: GRH_EyeLashes_Liza
+    400250: GRH_LEye_Liza
+    400252: GRH_REye_Liza
+    400254: GRH_Tongue_Liza
+    400256: GRH_UpperTeeth_Liza
+    4300000: GRH_EyeLashes_Liza
+    4300002: GRH_UpperTeeth_Liza
+    4300004: GRH_LEye_Liza
+    4300006: GRH_DownTeeth_Liza
+    4300008: GRH_Tongue_Liza
+    4300010: GRH_REye_Liza
+    4300012: GRFL_Head_Liza
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: GRFL_Head_Liza
+    13700002: GRH_DownTeeth_Liza
+    13700004: GRH_EyeLashes_Liza
+    13700006: GRH_LEye_Liza
+    13700008: GRH_REye_Liza
+    13700010: GRH_Tongue_Liza
+    13700012: GRH_UpperTeeth_Liza
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: GRFL_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_Arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_Arm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_ForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_ForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_UpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_Leg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_ToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_UpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_Leg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_ToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_L_HandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRFL_R_HandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: GRFL_Head_Liza(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.00000013315805, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Head_Liza
+      position: {x: 0.00000003, y: 0, z: 0}
+      rotation: {x: -0.70710665, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Hips
+      position: {x: 0.00000007, y: 0.9776801, z: -0.01368988}
+      rotation: {x: 0.49999225, y: -0.50000864, z: -0.49999526, w: 0.5000039}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_UpLeg
+      position: {x: 0.0054277, y: -0.0184653, z: 0.09365425}
+      rotation: {x: -0.0005475, y: 0.9999999, z: 0.0000045018223, w: 0.0000033264873}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_Leg
+      position: {x: -0.44575575, y: 0.00000031, z: 0.000010549999}
+      rotation: {x: 0.000013082994, y: -0.000011405496, z: 0.007246437, w: 0.9999738}
+      scale: {x: 1, y: 1, z: 0.999999}
+      transformModified: 1
+    - name: GRFL_L_Foot
+      position: {x: -0.43787983, y: -0.0000047599997, z: 0.00000495}
+      rotation: {x: -0.0000073727897, y: 0.000019049723, z: -0.00668645, w: 0.99997765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_FootCont1
+      position: {x: -0.08865639, y: 0.124516055, z: 0.04686112}
+      rotation: {x: 0.7071072, y: -0.0000030130211, z: 0.70710635, w: 0.0000030130245}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_FootCont2
+      position: {x: -0.08865634, y: -0.045784, z: 0.04686121}
+      rotation: {x: 0.7071072, y: -0.0000030130211, z: 0.70710635, w: 0.0000030130245}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_FootCont3
+      position: {x: -0.08865627, y: 0.12451598, z: -0.051138878}
+      rotation: {x: 0.7071072, y: -0.0000030130211, z: 0.70710635, w: 0.0000030130245}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_FootCont4
+      position: {x: -0.08865623, y: -0.045784038, z: -0.051138792}
+      rotation: {x: 0.7071072, y: -0.0000030130211, z: 0.70710635, w: 0.0000030130245}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_ToeBase
+      position: {x: -0.078656666, y: 0.12451593, z: 0.0000009}
+      rotation: {x: 0.000066114524, y: -0.00006894287, z: -0.70710635, w: 0.7071072}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_ToeBaseNub
+      position: {x: -0.05106352, y: -0.00000009, z: -0.0000041999997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_ToetCont1
+      position: {x: -0.070399925, y: -0.00999072, z: 0.04686238}
+      rotation: {x: 0.5000619, y: 0.49987787, z: 0.5000619, w: -0.4999983}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_ToetCont2
+      position: {x: -0.07040191, y: -0.0100093195, z: -0.051137645}
+      rotation: {x: 0.5000619, y: 0.49987787, z: 0.5000619, w: -0.4999983}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_LegTwist
+      position: {x: -0.21893992, y: -0.0000024580954, z: 0.0000025367735}
+      rotation: {x: -0.0000037458324, y: 0.00000006330812, z: -0.000000001396747,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.99999994}
+      transformModified: 1
+    - name: GRFL_L_UpLegTwist
+      position: {x: -0.2228778, y: 0.00000025272368, z: 0.0000050258636}
+      rotation: {x: 0.000006500034, y: -0.0000000022918902, z: 0.000000005529741,
+        w: 1}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.9999999}
+      transformModified: 1
+    - name: GRFL_L_WeaponUpLeg
+      position: {x: -0.08823878, y: -0.069080606, z: -0.09229388}
+      rotation: {x: 0.5634052, y: 0.5119734, z: 0.42418623, w: -0.49043232}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_UpLeg
+      position: {x: 0.0054263696, y: -0.01846565, z: -0.093649976}
+      rotation: {x: -0.0005475, y: 0.9999999, z: -0.0000045018223, w: -0.0000033264873}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_Leg
+      position: {x: -0.4457557, y: 0.00000040999998, z: -0.00000291}
+      rotation: {x: -0.000013082994, y: 0.000011405496, z: 0.007246437, w: 0.9999738}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_Foot
+      position: {x: -0.43788016, y: -0.0000045399997, z: 0.0000032399998}
+      rotation: {x: 0.0000073727897, y: -0.000019049723, z: -0.00668645, w: 0.99997765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_FootCont1
+      position: {x: -0.08865704, y: 0.124515876, z: -0.04685747}
+      rotation: {x: 0.7071068, y: -0.0000062614376, z: 0.7071068, w: -0.000005978967}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_FootCont2
+      position: {x: -0.088656984, y: -0.04578409, z: -0.04685814}
+      rotation: {x: 0.7071068, y: -0.0000062614376, z: 0.7071068, w: -0.000005978967}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_FootCont3
+      position: {x: -0.08865541, y: 0.124515474, z: 0.051142547}
+      rotation: {x: 0.7071068, y: -0.0000062614376, z: 0.7071068, w: -0.000005978967}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_FootCont4
+      position: {x: -0.088655345, y: -0.04578449, z: 0.051141866}
+      rotation: {x: 0.7071068, y: -0.0000062614376, z: 0.7071068, w: -0.000005978967}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_ToeBase
+      position: {x: -0.0786562, y: 0.124515735, z: 0.0000023799998}
+      rotation: {x: -0.000066114524, y: 0.00006894287, z: -0.70710635, w: 0.7071072}
+      scale: {x: 0.999999, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_ToeBaseNub
+      position: {x: -0.05106892, y: -0.00000012, z: -0.00000448}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.999999, z: 1.000001}
+      transformModified: 1
+    - name: GRFL_R_ToetCont1
+      position: {x: -0.07040009, y: -0.0099918, z: -0.046861757}
+      rotation: {x: 0.50012493, y: 0.4999048, z: 0.50012493, w: -0.4998452}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_ToetCont2
+      position: {x: -0.07040009, y: -0.0100088995, z: 0.051138237}
+      rotation: {x: 0.50012493, y: 0.4999048, z: 0.50012493, w: -0.4998452}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_LegTwist
+      position: {x: -0.21894005, y: -0.0000022697448, z: 0.0000016784668}
+      rotation: {x: 0.0000037475188, y: -0.000000040297916, z: -0.00000000838175,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1}
+      transformModified: 1
+    - name: GRFL_R_UpLegTwist
+      position: {x: -0.22287758, y: 0.00000021219253, z: -0.0000014400482}
+      rotation: {x: -0.0000064962874, y: -0.000000019179094, z: 0.0000000018625206,
+        w: 1}
+      scale: {x: 1, y: 1.0000005, z: 0.9999999}
+      transformModified: 1
+    - name: GRFL_R_WeaponUpLeg
+      position: {x: -0.08823771, y: -0.06908084, z: 0.09229921}
+      rotation: {x: -0.42418626, y: -0.49043217, z: -0.56340533, w: 0.5119734}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Spine
+      position: {x: -0.05371307, y: -0.000000109999995, z: 0}
+      rotation: {x: -0.0000014995301, y: 0.0000040001764, z: -0.0001175, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Spine1
+      position: {x: -0.10297806, y: 0.0000022099998, z: 0.00000058}
+      rotation: {x: 0, y: -0, z: -0.027596997, w: 0.9996192}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Spine2
+      position: {x: -0.11120224, y: -0.00000040999998, z: 0.00000012}
+      rotation: {x: -0.0000009974272, y: -0.00000007168846, z: 0.071688466, w: 0.9974271}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_Shoulder
+      position: {x: -0.26215285, y: -0.013520859, z: 0.01756989}
+      rotation: {x: -0.6282259, y: 0.04174633, z: 0.76877606, w: 0.11212853}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_Arm
+      position: {x: -0.1425321, y: 0.00000243, z: 0.0000021499998}
+      rotation: {x: -0.06515369, y: 0.10150025, z: 0.04530996, w: 0.9916651}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_ArmTwist
+      position: {x: -0.13783765, y: -0.0000056028366, z: -0.000009307862}
+      rotation: {x: -0.000036485617, y: -0.00000002838996, z: -0.000000022579028,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: GRFL_L_ForeArm
+      position: {x: -0.27567673, y: -0.000018499999, z: -0.000018570001}
+      rotation: {x: -0.000072998795, y: -0.000023003833, z: 0.000052498322, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_ForeArmTwist
+      position: {x: -0.13073516, y: 0.0000067853925, z: -0.0000024414062}
+      rotation: {x: 0.00002483278, y: 0.000000022353113, z: 0.000000046088257, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: GRFL_L_Hand
+      position: {x: -0.26147228, y: 0.00000845, z: -0.00000475}
+      rotation: {x: -0.7047386, y: -0.057397712, z: -0.057156622, w: 0.7048277}
+      scale: {x: 0.999999, y: 1, z: 0.999999}
+      transformModified: 1
+    - name: GRFL_L_HandIndex1
+      position: {x: -0.09577633, y: -0.01514031, z: -0.03465784}
+      rotation: {x: 0.000009564642, y: 0.000005789441, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000002}
+      transformModified: 1
+    - name: GRFL_L_HandIndex2
+      position: {x: -0.0343346, y: 0.0000010699999, z: 0.00000009}
+      rotation: {x: 0, y: -0, z: -0.000022, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandIndex3
+      position: {x: -0.02727272, y: -0.00000052999997, z: 0.00000006}
+      rotation: {x: -0.0000575, y: -0.000068, z: -0.0000000039100003, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandIndexNub
+      position: {x: -0.02249649, y: 0.00000091, z: -0.00000046}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999999, y: 1.000001, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandMiddle1
+      position: {x: -0.096413836, y: -0.01954905, z: -0.0124867}
+      rotation: {x: 0.00017398794, y: 0.000019581794, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000002}
+      transformModified: 1
+    - name: GRFL_L_HandMiddle2
+      position: {x: -0.039004557, y: 0.00000091, z: -0.00000014999999}
+      rotation: {x: 0, y: -0, z: -0.0000115, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandMiddle3
+      position: {x: -0.027552111, y: 0, z: 0.000000099999994}
+      rotation: {x: -0.0000165, y: -0.000119, z: -0.0000000019635, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandMiddleNub
+      position: {x: -0.026343, y: 0.00000039999998, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999997, y: 1.000003, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandPinky1
+      position: {x: -0.081345096, y: -0.01313419, z: 0.02876861}
+      rotation: {x: 0.000009564642, y: 0.000005789441, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000002}
+      transformModified: 1
+    - name: GRFL_L_HandPinky2
+      position: {x: -0.02618702, y: 0.00000076, z: -0.00000016}
+      rotation: {x: -0.000017000382, y: -0.00015299996, z: -0.000002502601, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandPinky3
+      position: {x: -0.02073616, y: 0.00000029999998, z: -0.000000049999997}
+      rotation: {x: 0.000117, y: -0.000147, z: 0.000000017199001, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandPinkyNub
+      position: {x: -0.02423073, y: 0.00000031, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999998, y: 1.000002, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandRing1
+      position: {x: -0.090738215, y: -0.01547981, z: 0.009509889}
+      rotation: {x: 0.00000996749, y: 0.0000008056957, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000002}
+      transformModified: 1
+    - name: GRFL_L_HandRing2
+      position: {x: -0.03220081, y: -0.0000026, z: -0.00000051999996}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandRing3
+      position: {x: -0.02569976, y: -0.00000168, z: -0.00000037}
+      rotation: {x: -0.0000830005, y: -0.00006749938, z: -0.0000075056023, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandRingNub
+      position: {x: -0.025179518, y: -0.00000232, z: 0.0000041199996}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999999, y: 1.000002, z: 0.999999}
+      transformModified: 1
+    - name: GRFL_L_HandThumb1
+      position: {x: -0.02020308, y: 0.00359573, z: -0.04265935}
+      rotation: {x: 0.37346393, y: -0.32289723, z: 0.21043076, w: 0.84378964}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandThumb2
+      position: {x: -0.03579555, y: -0.0000010499999, z: -0.00000137}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000002, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandThumb3
+      position: {x: -0.030424649, y: -0.00000019, z: -0.00000122}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_HandThumbNub
+      position: {x: -0.03170731, y: -0.00000039999998, z: -0.00000061}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999998, y: 1, z: 1.000002}
+      transformModified: 1
+    - name: GRFL_L_WeaponHand
+      position: {x: -0.09127007, y: 0.00989477, z: -0.0000016500001}
+      rotation: {x: 0.70710546, y: 0.7071081, z: -0.00016044368, w: -0.000114871196}
+      scale: {x: 1, y: 0.999998, z: 1.000004}
+      transformModified: 1
+    - name: GRFL_Neck
+      position: {x: -0.270939, y: -0.00000033999999, z: 0.00000033}
+      rotation: {x: 0.0000014883141, y: -0.00000018687297, z: -0.12458197, w: 0.9922093}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Head
+      position: {x: -0.121566005, y: 0.00000057, z: 0.00000019}
+      rotation: {x: 0.0000037712834, y: -0.0000032058417, z: 0.0807774, w: 0.9967322}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_HeadNub
+      position: {x: -0.15672135, y: -0.00000012, z: 0.00002869}
+      rotation: {x: -0.0000035004882, y: 0.0000034995116, z: 0.00013950001, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Jaw
+      position: {x: -0.0024800098, y: 0.02439142, z: -0.00000473}
+      rotation: {x: -0.0000056568565, y: 0.0000007070944, z: -0.7071053, w: 0.7071084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_JawEnd
+      position: {x: -0.082132824, y: 0.03954252, z: 0.0000038099997}
+      rotation: {x: 0.0000063639536, y: -0.0000014142497, z: 0.70710284, w: 0.7071108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_LipLower
+      position: {x: -0.082216784, y: -0.0012813, z: 0.00000345}
+      rotation: {x: 0.00006470028, y: 0.00006470026, z: 0.7071067, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_LipLower
+      position: {x: 0.00061264, y: -0.0028446098, z: 0.011109039}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_LipLower
+      position: {x: 0.0006128, y: -0.00284875, z: -0.01110797}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Tongue
+      position: {x: -0.030468669, y: 0.01108454, z: 0.00000092}
+      rotation: {x: 0, y: 0, z: 0.116483465, w: 0.9931927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Tongue1
+      position: {x: -0.02006943, y: 0.00000014999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0.06936925, w: 0.9975911}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Tongue2
+      position: {x: -0.018061578, y: 0.00000014999999, z: 0.00000014999999}
+      rotation: {x: 0, y: -0, z: -0.040000822, w: 0.9991996}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_BrowInner
+      position: {x: -0.08304909, y: 0.0964711, z: 0.01359899}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_BrowOuter
+      position: {x: -0.08835421, y: 0.088128105, z: 0.040872596}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_Cheek
+      position: {x: -0.028859688, y: 0.09342277, z: 0.03558017}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_Eye
+      position: {x: -0.06752424, y: 0.07305327, z: 0.03109888}
+      rotation: {x: -0.0000056568565, y: 0.0000007070944, z: -0.7071053, w: 0.7071084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_LipCorner
+      position: {x: -0.00183151, y: 0.09658269, z: 0.023026088}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_LowerEyelid
+      position: {x: -0.061823558, y: 0.088723354, z: 0.031141039}
+      rotation: {x: 0.00008799999, y: 0.000004000176, z: 0.000001999648, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_LowerEyelash
+      position: {x: 0.0023768598, y: 0.00998188, z: -0.0000042799998}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_UpperEyelid
+      position: {x: -0.07277464, y: 0.08897636, z: 0.03110184}
+      rotation: {x: 0.00008799999, y: 0.000004000176, z: 0.000001999648, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_UpperEeylash
+      position: {x: -0.00331924, y: 0.00914268, z: -0.0000041199996}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_LipUpper
+      position: {x: -0.00767929, y: 0.11334918, z: -0.00000191}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_LipUpper
+      position: {x: 0.00144196, y: -0.00500203, z: 0.013093869}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_LipUpper
+      position: {x: 0.0014417999, y: -0.0050023003, z: -0.01309377}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_Nose
+      position: {x: -0.041046463, y: 0.12394878, z: -0.00000202}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_L_Nostril
+      position: {x: 0.0097, y: -0.01719946, z: 0.015002789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_Nostril
+      position: {x: 0.009699879, y: -0.01719975, z: -0.01500249}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_BrowInner
+      position: {x: -0.08304919, y: 0.09647081, z: -0.01360247}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_BrowOuter
+      position: {x: -0.088354185, y: 0.08812728, z: -0.0408759}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_Cheek
+      position: {x: -0.028859688, y: 0.09342208, z: -0.03558359}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_Eye
+      position: {x: -0.06752472, y: 0.073052876, z: -0.03109944}
+      rotation: {x: -0.0000056568565, y: 0.0000007070944, z: -0.7071053, w: 0.7071084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_LipCorner
+      position: {x: -0.00183151, y: 0.09658222, z: -0.023029579}
+      rotation: {x: -3.5e-12, y: -0.000001, z: -0.0000035, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_LowerEyelid
+      position: {x: -0.061823577, y: 0.08872271, z: -0.031144349}
+      rotation: {x: 0.00008799999, y: 0.000004000176, z: 0.000001999648, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_LowerEyelash
+      position: {x: 0.00237747, y: 0.00998201, z: -0.00001013}
+      rotation: {x: -0.00008800003, y: -0.00000549956, z: -0.000005000484, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_UpperEyelid
+      position: {x: -0.072774656, y: 0.088975735, z: -0.03110516}
+      rotation: {x: 0.00008799999, y: 0.000004000176, z: 0.000001999648, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_UpperEeylash
+      position: {x: -0.00331833, y: 0.00914276, z: -0.00000855}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_Shoulder
+      position: {x: -0.26215282, y: -0.013520809, z: -0.01757339}
+      rotation: {x: 0.6282259, y: -0.041746665, z: 0.768776, w: 0.11212894}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_Arm
+      position: {x: -0.14252684, y: 0.00000183, z: -0.00000108}
+      rotation: {x: 0.06515369, y: -0.10150025, z: 0.04530996, w: 0.9916651}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_ArmTwist
+      position: {x: -0.13783847, y: -0.00001019001, z: 0.000009307862}
+      rotation: {x: 0.00003647266, y: -0.000000050042363, z: -0.000000003936133, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: GRFL_R_ForeArm
+      position: {x: -0.27567703, y: -0.0000203, z: 0.000018769999}
+      rotation: {x: 0.000072998795, y: 0.000023003833, z: 0.000052498322, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_ForeArmTwist
+      position: {x: -0.13073516, y: 0.000003437996, z: 0.0000028991699}
+      rotation: {x: -0.000024842095, y: 0.000000022348924, z: 0.000000021879384, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: GRFL_R_Hand
+      position: {x: -0.26147002, y: 0.00000698, z: 0.00000488}
+      rotation: {x: 0.7047386, y: 0.057397712, z: -0.057156622, w: 0.7048277}
+      scale: {x: 1, y: 1, z: 0.999998}
+      transformModified: 1
+    - name: GRFL_R_HandIndex1
+      position: {x: -0.09577721, y: -0.01514004, z: 0.03465996}
+      rotation: {x: -0.000009564642, y: -0.000005789441, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000004}
+      transformModified: 1
+    - name: GRFL_R_HandIndex2
+      position: {x: -0.03433479, y: -0.00000014999999, z: 0.00000012}
+      rotation: {x: 2.34e-10, y: 0.000052, z: -0.0000045, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandIndex3
+      position: {x: -0.02727261, y: -0.00000014999999, z: -0.000000049999997}
+      rotation: {x: 0, y: 0.000065, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandIndexNub
+      position: {x: -0.022496339, y: 0.00000049, z: -0.00000061}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999997, y: 1.000003, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandMiddle1
+      position: {x: -0.096414186, y: -0.01954886, z: 0.01248974}
+      rotation: {x: -0.00017398794, y: -0.000019581794, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000004}
+      transformModified: 1
+    - name: GRFL_R_HandMiddle2
+      position: {x: -0.039004978, y: 0.00000061, z: -0.000000109999995}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandMiddle3
+      position: {x: -0.02755203, y: 0.00000046, z: -0.00000001}
+      rotation: {x: 0.00003, y: -0.000127, z: 0.0000000038100003, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandMiddleNub
+      position: {x: -0.02634277, y: 0.000000109999995, z: -0.00000014999999}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000017, y: 0.999995, z: 0.999988}
+      transformModified: 1
+    - name: GRFL_R_HandPinky1
+      position: {x: -0.08134949, y: -0.013134429, z: -0.028762529}
+      rotation: {x: -0.000009564642, y: -0.000005789441, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000004}
+      transformModified: 1
+    - name: GRFL_R_HandPinky2
+      position: {x: -0.026187329, y: -0.00000029999998, z: -0.00000009}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandPinky3
+      position: {x: -0.02073608, y: 0.00000061, z: 0.00000008}
+      rotation: {x: 0.000055, y: 0.00014200002, z: -0.000000007810001, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandPinkyNub
+      position: {x: -0.02423073, y: -0.00000012999999, z: 0.00000031}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000004, y: 1, z: 0.999997}
+      transformModified: 1
+    - name: GRFL_R_HandRing1
+      position: {x: -0.09074264, y: -0.01548024, z: -0.009508969}
+      rotation: {x: -0.00000996749, y: -0.0000008056957, z: 0.08056957, w: 0.996749}
+      scale: {x: 1, y: 1, z: 1.000004}
+      transformModified: 1
+    - name: GRFL_R_HandRing2
+      position: {x: -0.03220086, y: -0.00000321, z: -0.00000038}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandRing3
+      position: {x: -0.02569961, y: -0.00000092, z: -0.00000028}
+      rotation: {x: 0.0000800004, y: 0.0000534994, z: -0.00000750428, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandRingNub
+      position: {x: -0.02517937, y: -0.00000267, z: 0.00000443}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000016, y: 0.999996, z: 0.999988}
+      transformModified: 1
+    - name: GRFL_R_HandThumb1
+      position: {x: -0.02020664, y: 0.0035956698, z: 0.04266449}
+      rotation: {x: -0.37346393, y: 0.32289723, z: 0.21043076, w: 0.84378964}
+      scale: {x: 0.999998, y: 1.000002, z: 1.000002}
+      transformModified: 1
+    - name: GRFL_R_HandThumb2
+      position: {x: -0.03579574, y: -0.00000077999994, z: -0.0000010599999}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000004, y: 0.999999, z: 0.999997}
+      transformModified: 1
+    - name: GRFL_R_HandThumb3
+      position: {x: -0.030458258, y: 0.00000008, z: -0.0000010699999}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRFL_R_HandThumbNub
+      position: {x: -0.03170731, y: -0.00000049, z: -0.00000061}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999998, y: 1.000003, z: 1}
+      transformModified: 1
+    - name: GRFL_R_WeaponHand
+      position: {x: -0.09127472, y: 0.00989435, z: -0.0000011999999}
+      rotation: {x: 0.00015909926, y: -0.00011101541, z: -0.7071052, w: 0.7071083}
+      scale: {x: 1, y: 0.999999, z: 1.000005}
+      transformModified: 1
+    - name: GRH_DownTeeth_Liza
+      position: {x: -0.0000009039751, y: 1.6360105, z: 0.069111325}
+      rotation: {x: -0.7071065, y: -0.00000006181722, z: 0.000000061817275, w: 0.7071072}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRH_EyeLashes_Liza
+      position: {x: 0.00000064988615, y: 1.7027332, z: 0.07721802}
+      rotation: {x: -0.70710665, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRH_LEye_Liza
+      position: {x: -0.031099739, y: 1.7027959, z: 0.061282195}
+      rotation: {x: -0.70710665, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRH_REye_Liza
+      position: {x: 0.031098574, y: 1.7027959, z: 0.061282195}
+      rotation: {x: -0.70710665, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRH_Tongue_Liza
+      position: {x: -0.0000009083863, y: 1.6266668, z: 0.043089904}
+      rotation: {x: -0.70710665, y: -0.00000016858726, z: 0.00000084293697, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GRH_UpperTeeth_Liza
+      position: {x: -0.0000008798357, y: 1.6360105, z: 0.069099575}
+      rotation: {x: -0.70710665, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

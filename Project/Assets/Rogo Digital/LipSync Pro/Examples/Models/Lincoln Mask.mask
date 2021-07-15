@@ -1,0 +1,486 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Lincoln Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Beards
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Blink_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Blink_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsDown_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsDown_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsIn_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsIn_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsOuterLower_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsOuterLower_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsUp_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/BrowsUp_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/CheekPuff_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/CheekPuff_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/EyesWide_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/EyesWide_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Frown_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Frown_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Jaw_Down_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Jaw_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Jaw_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Jaw_Up_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/JawBackward_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/JawForeward_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/JawRotateY_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/JawRotateY_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/JawRotateZ_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/JawRotateZ_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/LowerLipDown_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/LowerLipDown_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/LowerLipIn_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/LowerLipOut_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Midmouth_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Midmouth_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/MouthDown_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/MouthNarrow_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/MouthNarrow_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/MouthOpen_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/MouthUp_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/MouthWhistle_NarrowAdjust_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/MouthWhistle_NarrowAdjust_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/NoseScrunch_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/NoseScrunch_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Smile_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Smile_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Squint_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/Squint_Right_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/UpperLipIn_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/UpperLipOut_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/UpperLipUp_Left_4
+    m_Weight: 0
+  - m_Path: Beards/Poses__Beards/UpperLipUp_Right_4
+    m_Weight: 0
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: Body/Poses__Body
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Blink_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Blink_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsDown_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsDown_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsIn_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsIn_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsOuterLower_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsOuterLower_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsUp_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/BrowsUp_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/CheekPuff_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/CheekPuff_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/EyesWide_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/EyesWide_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Frown_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Frown_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Jaw_Down
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Jaw_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Jaw_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Jaw_Up
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/JawBackward
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/JawForeward
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/JawRotateY_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/JawRotateY_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/JawRotateZ_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/JawRotateZ_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/LowerLipDown_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/LowerLipDown_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/LowerLipIn
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/LowerLipOut
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Midmouth_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Midmouth_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/MouthDown
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/MouthNarrow_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/MouthNarrow_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/MouthOpen
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/MouthUp
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/MouthWhistle_NarrowAdjust_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/MouthWhistle_NarrowAdjust_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/NoseScrunch_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/NoseScrunch_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Smile_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Smile_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Squint_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/Squint_Right
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/TongueUp
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/UpperLipIn
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/UpperLipOut
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/UpperLipUp_Left
+    m_Weight: 0
+  - m_Path: Body/Poses__Body/UpperLipUp_Right
+    m_Weight: 0
+  - m_Path: Bottoms
+    m_Weight: 0
+  - m_Path: Eyelashes
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Blink_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Blink_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsDown_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsDown_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsIn_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsIn_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsOuterLower_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsOuterLower_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsUp_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/BrowsUp_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/CheekPuff_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/CheekPuff_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/EyesWide_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/EyesWide_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Frown_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Frown_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Jaw_Down_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Jaw_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Jaw_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Jaw_Up_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/JawBackward_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/JawForeward_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/JawRotateY_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/JawRotateY_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/JawRotateZ_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/JawRotateZ_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/LowerLipDown_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/LowerLipDown_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/LowerLipIn_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/LowerLipOut_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Midmouth_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Midmouth_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/MouthDown_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/MouthNarrow_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/MouthNarrow_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/MouthOpen_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/MouthUp_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/MouthWhistle_NarrowAdjust_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/MouthWhistle_NarrowAdjust_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/NoseScrunch_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/NoseScrunch_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Smile_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Smile_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Squint_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/Squint_Right_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/TongueUp_2
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/UpperLipIn_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/UpperLipOut_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/UpperLipUp_Left_3
+    m_Weight: 0
+  - m_Path: Eyelashes/Poses__Eyelashes/UpperLipUp_Right_3
+    m_Weight: 0
+  - m_Path: Eyes
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Blink_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Blink_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsDown_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsDown_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsIn_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsIn_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsOuterLower_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsOuterLower_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsUp_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/BrowsUp_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/CheekPuff_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/CheekPuff_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/EyesWide_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/EyesWide_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Frown_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Frown_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Jaw_Down_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Jaw_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Jaw_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Jaw_Up_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/JawBackward_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/JawForeward_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/JawRotateY_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/JawRotateY_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/JawRotateZ_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/JawRotateZ_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/LowerLipDown_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/LowerLipDown_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/LowerLipIn_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/LowerLipOut_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Midmouth_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Midmouth_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/MouthDown_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/MouthNarrow_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/MouthNarrow_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/MouthOpen_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/MouthUp_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/MouthWhistle_NarrowAdjust_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/MouthWhistle_NarrowAdjust_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/NoseScrunch_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/NoseScrunch_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Smile_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Smile_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Squint_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/Squint_Right_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/UpperLipIn_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/UpperLipOut_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/UpperLipUp_Left_2
+    m_Weight: 0
+  - m_Path: Eyes/Poses__Eyes/UpperLipUp_Right_2
+    m_Weight: 0
+  - m_Path: Hats
+    m_Weight: 0
+  - m_Path: mixamorig_Hips
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_LeftUpLeg
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_RightUpLeg
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+    m_Weight: 0
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_LeftEye
+    m_Weight: 0
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_RightEye
+    m_Weight: 0
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+    m_Weight: 1
+  - m_Path: mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+    m_Weight: 1
+  - m_Path: Shoes
+    m_Weight: 0
+  - m_Path: Tops
+    m_Weight: 0

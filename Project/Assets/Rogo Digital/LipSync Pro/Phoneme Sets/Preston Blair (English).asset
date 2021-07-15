@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e19889bf5d1a7a4e9d54d7b076c7ebd, type: 3}
+  m_Name: Preston Blair (English)
+  m_EditorClassIdentifier: 
+  isLegacyFormat: 0
+  scriptingName: PrestonBlair
+  phonemes:
+    phonemeNames:
+    - AI
+    - E
+    - U
+    - O
+    - CDGKNRSThYZ
+    - FV
+    - L
+    - MBP
+    - WQ
+    - Rest
+  phonemeList:
+  - name: AI
+    number: 0
+    flag: 1
+    visuallyImportant: 0
+    guideImage: {fileID: 2800000, guid: 3161e702c666a1f4d8cedfae9e7b1a5e, type: 3}
+  - name: E
+    number: 1
+    flag: 2
+    visuallyImportant: 0
+    guideImage: {fileID: 2800000, guid: c2b822832e10eca4fa278f1b51daa26e, type: 3}
+  - name: U
+    number: 2
+    flag: 4
+    visuallyImportant: 0
+    guideImage: {fileID: 2800000, guid: fa2a440ad71b40b42a982048a56b5a00, type: 3}
+  - name: O
+    number: 3
+    flag: 8
+    visuallyImportant: 0
+    guideImage: {fileID: 2800000, guid: d3b724caf22f25548b438a7834b87e91, type: 3}
+  - name: CDGKNRSThYZ
+    number: 4
+    flag: 16
+    visuallyImportant: 0
+    guideImage: {fileID: 2800000, guid: 8ba44f1112856a9489917f711cbd1fff, type: 3}
+  - name: FV
+    number: 5
+    flag: 32
+    visuallyImportant: 1
+    guideImage: {fileID: 2800000, guid: 525ebc52f22477e4286d8acd16dacb46, type: 3}
+  - name: L
+    number: 6
+    flag: 64
+    visuallyImportant: 0
+    guideImage: {fileID: 2800000, guid: 0cabe6e82f6fd7443bc6e668eb1c7ddd, type: 3}
+  - name: MBP
+    number: 7
+    flag: 128
+    visuallyImportant: 1
+    guideImage: {fileID: 2800000, guid: fb719555aa26eb14288cae4787f11f28, type: 3}
+  - name: WQ
+    number: 8
+    flag: 256
+    visuallyImportant: 1
+    guideImage: {fileID: 2800000, guid: 37ab031cd42ce8848a1cd95ee5ee37a3, type: 3}
+  - name: Rest
+    number: 9
+    flag: 512
+    visuallyImportant: 1
+    guideImage: {fileID: 0}
+  guideImages:
+  - {fileID: 2800000, guid: 3161e702c666a1f4d8cedfae9e7b1a5e, type: 3}
+  - {fileID: 2800000, guid: c2b822832e10eca4fa278f1b51daa26e, type: 3}
+  - {fileID: 2800000, guid: fa2a440ad71b40b42a982048a56b5a00, type: 3}
+  - {fileID: 2800000, guid: d3b724caf22f25548b438a7834b87e91, type: 3}
+  - {fileID: 2800000, guid: 8ba44f1112856a9489917f711cbd1fff, type: 3}
+  - {fileID: 2800000, guid: 525ebc52f22477e4286d8acd16dacb46, type: 3}
+  - {fileID: 2800000, guid: 0cabe6e82f6fd7443bc6e668eb1c7ddd, type: 3}
+  - {fileID: 2800000, guid: fb719555aa26eb14288cae4787f11f28, type: 3}
+  - {fileID: 2800000, guid: 37ab031cd42ce8848a1cd95ee5ee37a3, type: 3}
+  - {fileID: 0}

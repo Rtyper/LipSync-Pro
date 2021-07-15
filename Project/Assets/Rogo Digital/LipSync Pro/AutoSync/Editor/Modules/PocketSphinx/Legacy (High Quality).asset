@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5cc912243e1724db87bbd9dc547cab, type: 3}
+  m_Name: Legacy (High Quality)
+  m_EditorClassIdentifier: 
+  displayName: Legacy (High Quality)
+  description: Equivalent to the "High Quality Settings" option in AutoSync2. Uses
+    PocketSphinx to detect phonemes directly from audio.
+  modules:
+  - ASPocketSphinxPhonemeDetectionModule
+  - ASPhonemeMarkerCleanupModule
+  moduleSettings:
+  - '{"languageModel":0,"useAudioConversion":true,"allphone_ciEnabled":false,"backtraceEnabled":true,"beamExponent":-40,"pbeamExponent":-40,"lwValue":15.0}'
+  - '{"cleanupAggression":0.003000000026077032}'

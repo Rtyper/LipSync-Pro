@@ -1,0 +1,4 @@
+Phoneme Marker Cleanup AutoSync Module
+V1.0.0
+-------
+Initial Release

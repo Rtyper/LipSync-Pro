@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec01a6ce71382249a21692e5f167af7, type: 3}
+  m_Name: Arpabet-Prestonblair
+  m_EditorClassIdentifier: 
+  displayName: Arpabet - Preston-Blair
+  setAName: Arpabet
+  setBName: PrestonBlair
+  phonemeMap:
+    map:
+    - aLabel: IY
+      bLabel: E
+    - aLabel: IH
+      bLabel: AI
+    - aLabel: EH
+      bLabel: E
+    - aLabel: AE
+      bLabel: AI
+    - aLabel: AH
+      bLabel: U
+    - aLabel: UW
+      bLabel: O
+    - aLabel: UH
+      bLabel: U
+    - aLabel: AA
+      bLabel: AI
+    - aLabel: AO
+      bLabel: AI
+    - aLabel: EY
+      bLabel: AI
+    - aLabel: AY
+      bLabel: AI
+    - aLabel: OY
+      bLabel: AI
+    - aLabel: AW
+      bLabel: AI
+    - aLabel: OW
+      bLabel: O
+    - aLabel: ER
+      bLabel: U
+    - aLabel: JH
+      bLabel: CDGKNRSThYZ
+    - aLabel: L
+      bLabel: L
+    - aLabel: R
+      bLabel: CDGKNRSThYZ
+    - aLabel: Y
+      bLabel: CDGKNRSThYZ
+    - aLabel: W
+      bLabel: WQ
+    - aLabel: M
+      bLabel: MBP
+    - aLabel: N
+      bLabel: CDGKNRSThYZ
+    - aLabel: NG
+      bLabel: CDGKNRSThYZ
+    - aLabel: CH
+      bLabel: CDGKNRSThYZ
+    - aLabel: J
+      bLabel: CDGKNRSThYZ
+    - aLabel: DH
+      bLabel: CDGKNRSThYZ
+    - aLabel: B
+      bLabel: MBP
+    - aLabel: D
+      bLabel: CDGKNRSThYZ
+    - aLabel: G
+      bLabel: CDGKNRSThYZ
+    - aLabel: P
+      bLabel: MBP
+    - aLabel: T
+      bLabel: CDGKNRSThYZ
+    - aLabel: K
+      bLabel: CDGKNRSThYZ
+    - aLabel: Z
+      bLabel: CDGKNRSThYZ
+    - aLabel: ZH
+      bLabel: CDGKNRSThYZ
+    - aLabel: V
+      bLabel: FV
+    - aLabel: F
+      bLabel: FV
+    - aLabel: TH
+      bLabel: CDGKNRSThYZ
+    - aLabel: S
+      bLabel: CDGKNRSThYZ
+    - aLabel: SH
+      bLabel: CDGKNRSThYZ
+    - aLabel: HH
+      bLabel: CDGKNRSThYZ
+    - aLabel: sp
+      bLabel: Rest

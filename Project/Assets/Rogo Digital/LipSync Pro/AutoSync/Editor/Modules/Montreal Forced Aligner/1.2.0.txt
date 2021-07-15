@@ -1,0 +1,46 @@
+Montreal Forced Aligner AutoSync Module
+
+V1.2.0
+------
+Added support for Phoneme Marker templates provided in AutoSync.
+
+V1.1.2
+-------
+Fixed bug on macOS that could cause the MFA application to fail without generating any phonemes.
+
+V1.1.1
+-------
+Allowed MFA to quietly ignore words it doesn't understand instead of failing. A list of Out-of-vocabulary words will be printed to the console.
+Fixed bug that would allow MFA application to continue running long after it should have timed out, causing Unity to freeze.
+Made MFA window show notification to provide additional feedback to the user.
+Re-exported Default preset to remove outdated module data, and add "(English)" suffix in preparation for future language models.
+
+V1.1.0
+-------
+Added new options: autoRetry and maxAttempts
+	If autoRetry is true, and the module fails in a certain way, the module will immediately attempt to run again. This can solve some rare issues and is enabled by default.
+	maxAttemps defines the maximum number of times the module will attempt to run in a row if it keeps failing. The default is 2 - setting this higher won't necessarily make it work,
+	but it will make it take longer!
+
+Fixed issue with audio conversion that would cause formats other than .wav to fail.
+Fixed bug that meant audio files with certain filenames would fail.
+Made the module automatically ignore hyphens in transcripts.
+
+Improved how results are loaded back in to prevent potential differences on Mac and Windows.
+
+V1.0.3
+-------
+Fixed macOS issue where incorrect file paths would be generated, causing the output not being found.
+
+V1.0.2
+-------
+Fixed further bug related to using a relative path for MFA_align application.
+
+V1.0.1
+-------
+Fixed bug that prevented the module from working on systems that use the "," character as a decimal seperator.
+Fixed bug where only an absolute path would be accepted for the MFA application on some systems.
+
+V1.0.0
+-------
+Initial Release

@@ -1,0 +1,1 @@
+This folder must exist for MFA to function correctly, even though it's empty. Please don't delete it!
